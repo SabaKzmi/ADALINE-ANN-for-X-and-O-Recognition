@@ -8,8 +8,9 @@ The project's UI was implemented in customTKinter, allowing users to create and 
 ### Data-making tab
 <p align="center">
   <img src="https://github.com/SabaKzmi/ADALINE-ANN-for-X-and-O-Recognition/blob/c2b055623db488485ece9214da591bea1ca0282b/dataMaking-tab.png" alt="make data tab" />
-</p>
-### Test tab
+</p>  
+
+### Test tab  
 <p align="center">
   <img src="https://github.com/SabaKzmi/ADALINE-ANN-for-X-and-O-Recognition/blob/c2b055623db488485ece9214da591bea1ca0282b/test-tab.png" alt="test tab" />
 </p>
