@@ -5,12 +5,11 @@ The project implements an ADALINE ANN, which uses linear activation functions an
 ## User Interface
 The project's UI was implemented in customTKinter, allowing users to create and label X and O data on a 5x5 grid, train the ANN, and test its recognition capabilities in separate tabs.
 
+### Data-making tab
 <p align="center">
-  ### Data-making tab
-  <img src="---" alt="make data tab" />
+  <img src="https://github.com/SabaKzmi/ADALINE-ANN-for-X-and-O-Recognition/blob/c2b055623db488485ece9214da591bea1ca0282b/dataMaking-tab.png" alt="make data tab" />
 </p>
-
+### Test tab
 <p align="center">
-  ### Test tab
-  <img src="---" alt="test tab" />
+  <img src="https://github.com/SabaKzmi/ADALINE-ANN-for-X-and-O-Recognition/blob/c2b055623db488485ece9214da591bea1ca0282b/test-tab.png" alt="test tab" />
 </p>
